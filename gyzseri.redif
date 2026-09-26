@@ -1,0 +1,43 @@
+Template-Type: ReDIF-Series 1.0
+Name: Van Yüzüncü Yıl Üniversitesi İktisadi ve İdari Bilimler Fakültesi Dergisi
+Provider-Name: Van Yüzüncü Yıl University, Faculty of Economics and Administrative Sciences
+Provider-Homepage: https://www.yyu.edu.tr
+Maintainer-Name: İbrahim Çemberlitaş
+Maintainer-Email: ibrahimcemberlitas@gmail.com
+Description: Peer-reviewed, open-access journal published twice a year (June and December) since 2016.
+Type: ReDIF-Article
+ISSN: 2651-3943
+Handle: RePEc:gyz:vyuiib
+
+Template-Type: ReDIF-Series 1.0
+Name: Turkish Business Journal
+Provider-Name: Turkish Business Journal
+Provider-Homepage: https://dergipark.org.tr/tr/pub/tbj
+Maintainer-Name: İbrahim Çemberlitaş
+Maintainer-Email: ibrahimcemberlitas@gmail.com
+Description: Peer-reviewed, open-access journal published quarterly since 2020.
+Type: ReDIF-Article
+ISSN: 2717-848X
+Handle: RePEc:gyz:tbjour
+
+Template-Type: ReDIF-Series 1.0
+Name: Sosyal Bilimler Akademi Dergisi
+Provider-Name: Sosyal Bilimler Akademi Dergisi
+Provider-Homepage: https://dergipark.org.tr/tr/pub/sobad
+Maintainer-Name: İbrahim Çemberlitaş
+Maintainer-Email: ibrahimcemberlitas@gmail.com
+Description: Peer-reviewed, open-access journal published quarterly since 2018.
+Type: ReDIF-Article
+ISSN: 2636-7599
+Handle: RePEc:gyz:sobade
+
+Template-Type: ReDIF-Series 1.0
+Name: Bilimler Işığında Yaratılış Dergisi
+Provider-Name: Bilimler Işığında Yaratılış Derneği
+Provider-Homepage: https://bilimlerisigindayaratilis.org
+Maintainer-Name: İbrahim Çemberlitaş
+Maintainer-Email: ibrahimcemberlitas@gmail.com
+Description: Peer-reviewed, open-access interdisciplinary journal published twice a year since 2023.
+Type: ReDIF-Article
+ISSN: 3023-6142
+Handle: RePEc:gyz:yarati
